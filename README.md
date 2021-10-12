@@ -12,3 +12,8 @@ Life’s too short to wait for ice cream to melt or worry about others smelling 
 - Sharon Velpula
 - Beinan Xu
 - Richmond Yevudza
+
+### Additional References
+* [Domain Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/Domain.jpg)
+* [UI Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/UI%20model.jpg)
+* [Logo](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/toothflex1.0.pdf)
