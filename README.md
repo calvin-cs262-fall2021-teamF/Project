@@ -11,6 +11,7 @@ Life’s too short to wait for ice cream to melt or worry about others smelling 
 
 ## Design Models
 [Domain Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/Domain%20Model.jpg)
+
 [UI Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/UI%20Model.jpg)
 
 
