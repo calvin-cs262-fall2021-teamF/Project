@@ -7,7 +7,7 @@ Instead of a simple tracker that takes up your whole screen space, why not watch
 Life’s too short to wait for ice cream to melt or worry about others smelling the stench of death. Enjoy a boosted confidence with Toothflex, without having to sell an arm and leg for that expensive tooth repair
 
 ## Design Models
-* [Domain Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/Domain%20model.jpg)
+* [Domain Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/Domain.PNG)
 
 * [UI Model](https://github.com/calvin-cs262-fall2021-teamF/toothflex-project/blob/main/UI%20model.jpg)
 
