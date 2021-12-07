@@ -1,0 +1,34 @@
+Usability Test: ToothFlex App
+Fall, 2021
+Team Diente
+
+Introduction
+Hi, this is the Diente group and welcome to our ToothFlex user test. Our ToothFlex app offers a unique way for users to be able to keep track of their brushing history so that the habit of brushing regularly is always present. We really appreciate you being here as you play a really important role in our app development. Today we will be walking through the test together. 
+Before we begin, it is very important to note that we’re testing the app, not you. You can’t do anything wrong here. As you use the app, I’m going to ask you to think out loud as much as possible. We would like to hear your honest reactions. If you have any questions, feel free to ask us. If at any point, you’d like to quit, kindly let us know. 
+With your permission, we would like to record this session. 
+Background Questions
+We presume you are familiar with mobile applications and for the purposes of our application, we assume that you have a general knowledge of oral health. 
+What kind of electronic devices do you use? 
+What kinds of things do you like to do on these devices? 
+Do you have any favorite mobile app? What about it makes it your favorite app?
+
+
+The Test
+1.	Reactions to the homepage – Could you tell us your general impression of the app? Interaction by looking at the start button. What makes stands out to you? Are you tempted to click on anything? Start button Can you tell what each icon could probably stand for? Welcome – description, home button, reset timer, user option 
+2.	General tasks - Now I’m going to ask you to try doing some specific tasks. I’m going to read each one out loud and we’re going to try to get through all these tasks if time permits us.
+a)	As you can see, our app uses a timer to track your brushing time. So, it’s bedtime and you decide to brush for a minute. Could you start the timer please?
+b)	Could you select the Spotify icon and play a song?
+c)	You have finished brushing. Can you stop the timer and the song? 
+d)	Now you woke up the next morning and you are ready to brush your teeth. But the timer still shows 01:00 as its starting time. Could you reset the timer to its original form?
+e)	Now you want to look at your brushing time history, but our app only stores your history if you are signed in. Are you able to find the profile page? Thought it was the history page
+f)	Can you sign in with these credentials? Signed in
+g)	Now can you go back to the homepage and brush for 30 seconds without entertainment? 
+h)	Are you able to figure out where the brushing history is stored?
+i)	Are you able to go to the profile page and edit your profile picture?
+j)	Could you try editing your profile name and username?
+k)	Our application allows its users to set brushing goals. Could you set the frequency of your brushing time?
+l)	Sometimes, app notifications are annoying. Are you able to turn off notifications?
+3.	Final observations – Do you have any final observations on the site? Would you consider using it? Stop what you’re watching 
+
+Thanks
+Thank you so much, once again, for your willingness to help us test our new ToothFlex app. Our mobile app is rather new, so we appreciate your help in fixing it up. We’ll contact you soon with a summary of what we found and how we hope to use it to improve the app. We’ll keep the data from your individual session private and only release aggregate data.
