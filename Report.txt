@@ -1,0 +1,30 @@
+Usability Test Report for Team Diente
+ 
+Our user tasks mainly dealt with the following user stories, (1) User logs brushing time, (2) User signs up. 
+Under the former, we first treated the subject as a guest user. So, they were only able to use the timer 
+but none of their brushing data would be stored. We requested them to start and stop the timer and 
+also play some music while the timer was running to enact the idea of brushing while listening to music. 
+Then we made them sign in using some dummy credentials which fulfils the second user story and then 
+asked them to brush again, but without entertainment. This time, we requested them to locate the 
+brushing history page where the brush logs are stored. Next, the subjects were directed to the profile 
+page of our app where we made them do tasks like change the profile pic, username, frequency, and 
+duration of brushing as well as, disable notifications. Our user tests were approximately 10 minutes long 
+but varied based on the subject’s speed. 
+
+During our initial discussions about our app, entertainment was one feature that made our app different 
+from a traditional timer. Our entertainment features of Spotify and YouTube were implemented in this 
+way, the user starts the timer and the entertainment options pop up. However, during our user tests, 
+we realized that selecting an entertainment feature while brushing was kind of hard. So that was our 
+first discovery. Secondly, even though we had the database up and running, we did run into a problem 
+with pushing the brushing logs into the database because it was not showing up on our brushing history 
+page. Also, after we made our users sign in, changing the user’s brushing goals such as frequency and 
+duration gave a “Failure to update” error at some points. We also discovered that when we asked the 
+user to change their profile pic, their first instinct was to click on the profile pic on the profile page 
+instead of going into the “edit profile” field. Some subjects suggested refinement of the icons and the 
+overall theme of the app. Everyone loved the logo and the color of the homepage (gradient turquoise). 
+
+So, our plan now is to implement/correct the following functionalities: 
+1. Fix the database to make sure brush logs appear as soon as timer stops 
+2. Fix bugs related to changing profile page fields 
+3. Refine page styles including fonts, color themes, and icons 
+4. Find a smoother transition to entertainment options (optional)
